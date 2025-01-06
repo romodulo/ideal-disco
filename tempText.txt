@@ -1,0 +1,14 @@
+###How to create a vercel app
+npm i -g vercel # install ?the? vercel package globally #if error: try sudo
+next:
+create vercel.json file: 
+copy and paste a vercel configuration:
+it looks exactly like this:
+{
+    "builds" : [{"src": "main.py", "use": "@vercel/python"}],
+    "routes" : [{"src": "/(.*)", "dest": "main.py"}]
+}
+On terminal type:
+vercel login:
+after loggin in: type:
+vercel .

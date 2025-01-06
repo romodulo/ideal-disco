@@ -1,0 +1,8 @@
+1. l: https://dev.to/walternascimentobarroso/commits-signed-on-github-using-gpg-key-31gb
+1. note: screen shot taken <1-06> <02:29>
+2. Title:
+What's the Difference Between Default and Named Exports in Javascript?
+2. l: https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/
+2. note: none
+3. Title:
+
