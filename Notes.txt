@@ -1,0 +1,3 @@
+# Screenshot Notes:
+<01-09> <19:29>:
+I took a screenshot of __repr__ or repr() function explanation.
