@@ -1,0 +1,92 @@
+1:05:47 -around this time for loops is explained
+
+whole video:
+Section 1: Getting Started
+(0:00:00) Introduction
+(0:01:22) What is JavaScript?
+(0:02:30) Setting up the Development Environment 
+
+Section 2: JavaScript Variables
+(0:07:46) Variables
+(0:12:40) Constants
+(0:14:31) Primitive Types
+(0:19:30) Dynamic Typing
+(0:21:13) Objects
+(0:24:38) Arrays
+(0:27:24) Functions
+(0:29:48) Types of Functions
+(0:31:30) Summary of Variables
+
+Section 3: JavaScript Operators
+(0:32:31) Intro to Operators
+(0:32:45) Arithmetic Operators
+(0:35:43) Assignment Operator
+(0:36:24) Comparison Operators
+(0:38:22) Equality Operators
+(0:41:39) The Ternary Operator
+(0:43:47) Logical Operators
+(0:51:19) Logical Operators with Non-booleans
+(0:54:37) Operator Precedence
+(0:55:29) Summary of Operator
+
+Section 4: Control Flow
+(0:56:31) If-Else Statements
+(1:01:03) Switch-Case Statements
+(1:05:32) For Loops
+(1:10:58) While Loops
+(1:14:05) Do-while Loops
+(1:15:44) Infinite Loops
+(1:17:33) For-in Loops
+(1:19:43) For-of Loops
+(1:21:38) Break and Continue
+(1:30:01) Exercise: Max of two numbers
+(1:31:05) Exercise: FizzBuzz
+(1:33:36) Exercise: Even and Odd Numbers
+(1:35:03) Summary of Control Flow
+
+Section 5: JavaScript Objects
+(1:35:55) Object Literals
+(1:37:26) Factory Functions
+(1:40:33) Constructor Functions
+(1:44:10) Objects are Dynamic
+(1:46:39) The Constructor Property
+(1:48:25) Functions are Objects
+(1:51:31) Value vs Reference types
+(1:53:54) Enumerating Properties of an Object
+(1:57:43) Cloning an Object
+(2:00:00) Garbage Collection
+(2:00:28) The Built in Math Function
+(2:03:19) String Methods
+(2:08:52) Template Literals
+(2:10:58) The Date Object
+(2:13:12) Summary of Objects
+
+Section 6: JavaScript Arrays
+(2:14:03) Introduction to Arrays
+(2:14:39) Adding Elements
+(2:17:34) Finding Elements (Primitives)
+(2:21:13) Finding Elements (Reference Types)
+(2:23:40) Arrow Functions
+(2:26:16) Removing Elements
+(2:29:06) Emptying an Array
+(2:31:25) Combining and Slicing Arrays
+(2:33:15) Spread Operator
+(2:34:48) Iterating an Array
+(2:36:44) Joining Arrays
+(2:41:19) Sorting Arrays
+(2:46:06) Testing the Elements of an Array
+(2:50:12) Filtering an Array
+(2:53:19) Mapping an Array
+(2:57:43) Reducing an Array
+
+Section 7: JavaScript Functions
+(3:01:21) Function Declarations vs Expressions 
+(3:03:55) Hoisting
+(3:06:06) Arguments
+(3:09:29) The Rest Operator
+(3:13:48) Default Parameters
+(3:17:47) Getters and Setters
+(3:21:59) Try and Catch
+(3:24:58) Local vs Global Scope
+(3:28:03) Let vs Var
+(3:31:11) The ‘this’ keyword

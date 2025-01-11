@@ -2,8 +2,8 @@ Getting Started with Vue.js and the Composition API 3:58 --- Done
 Vue Template Syntax and Expressions 3:07 --- Done
 List Rendering in Vue 7:04 --- Done 
 User Inputs in Vue 9:27 --- Done
-User Events in Vue 3 7:21 --- I.P. 
-Methods in Vue with the Composition API 3:53 ---
+User Events in Vue 3 7:21 --- Done
+Methods in Vue with the Composition API 3:53 --- I.P. 
 Conditionals in Vue 4:13 ---
 HTML Attribute Binding in Vue 3:23 ---
 Dynamic CSS Classes with Vue # #  #   ### I think this is where I stopped 7:21 ---
