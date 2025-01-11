@@ -4,11 +4,11 @@ List Rendering in Vue 7:04 --- Done
 User Inputs in Vue 9:27 --- Done
 User Events in Vue 3 7:21 --- Done
 Methods in Vue with the Composition API 3:53 --- Done
-Conditionals in Vue 4:13 --- 
-HTML Attribute Binding in Vue 3:23 ---
-Dynamic CSS Classes with Vue # #  #   ### I think this is where I stopped 7:21 ---
-Computed Properties in Vue with the Composition API 5:18 ---
-Reactivity Fundamentals 5:06 ---
-Local Setup with Vite 3:38 ---
-The Vue Application Instance 3:20 ---
+Conditionals in Vue 4:13 --- Done,i think.
+HTML Attribute Binding in Vue 3:23 --- Done
+Dynamic CSS Classes with Vue --- Done #Previous note:  ### I think this is where I stopped 7:21 ---
+Computed Properties in Vue with the Composition API 5:18 --- Done 
+Reactivity Fundamentals 5:06 --- Done
+Local Setup with Vite 3:38 --- Done
+The Vue Application Instance 3:20 --- Done
 Course Conclusion 1:13 ---
