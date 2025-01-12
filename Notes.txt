@@ -28,3 +28,16 @@ Picture of my GitHub Progress: 2 weeks progress
 screenshot: <1-11><17:26>:
 Pictture of my discord info:
 User: Display-name: Email: .
+It used to be User:2literessentia
+
+<to-do: Learn CSS>
+date:<1-12>  :  time:<13:05>
+Learn CSS ::before and ::after in 4 minutes
+link: https://www.youtube.com/watch?v=dIUOWdwwZBw
+
+<to-do: organization system for myself: notes
+date:<1-12>  :  time:<13:37>
+
+<website to note:>
+Beginning Graphic Design: Color
+https://www.youtube.com/watch?v=_2LLXnUdUIc
