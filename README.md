@@ -1,3 +1,1 @@
-# tempProjectsInProg :  desc: temporary projects in progress
-
-
+# tempProjectsInProg
