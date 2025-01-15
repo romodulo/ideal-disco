@@ -1,0 +1,15 @@
+Intro to Vue 3 Components 4:46
+Reusable Components with Props 10:20
+Nested Components in Vue 3:13
+Global vs Local Vue Components 2:49
+Communication Between Vue Components with Custom Events 12:39
+Vue Component Prop and Event Validation 4:01
+Component Naming Best Practices in Vue 4:16
+Vue Component Lifecycle Hooks 7:49
+Vue Component Slots 9:20
+Build a GitHub User Profile Vue Component 10:06
+Build an Alert Vue Component 17:25
+Course Conclusion 0:43
+
+Title
+Vue Component Fundamentals with the Composition API

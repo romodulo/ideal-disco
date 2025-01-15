@@ -11,4 +11,4 @@ Computed Properties in Vue with the Composition API 5:18 --- Done
 Reactivity Fundamentals 5:06 --- Done
 Local Setup with Vite 3:38 --- Done
 The Vue Application Instance 3:20 --- Done
-Course Conclusion 1:13 ---
+Course Conclusion 1:13 --- Done
