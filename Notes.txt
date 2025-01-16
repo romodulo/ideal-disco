@@ -41,3 +41,6 @@ date:<1-12>  :  time:<13:37>
 <website to note:>
 Beginning Graphic Design: Color
 https://www.youtube.com/watch?v=_2LLXnUdUIc
+
+<screenshot taken <1-15> <22:57>>
+calc floor function
