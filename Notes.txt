@@ -44,3 +44,35 @@ https://www.youtube.com/watch?v=_2LLXnUdUIc
 
 <screenshot taken <1-15> <22:57>>
 calc floor function
+
+<link>
+I like this link for learning how to 
+open libreoffice-writer from the command line: 
+https://askubuntu.com/questions/659741/how-to-open-a-file-with-libreoffice-writer-from-terminal
+
+<link>
+notes:
+this is the link for the pyperclip module for the Python
+Programming Language:
+https://pypi.org/project/pyperclip/
+
+<video: not really important>
+link for " Linux Graphics Drivers explained: AMD, NVIDIA, INTEL, Open Source and Proprietary":
+https://www.youtube.com/watch?v=CW1CLcT83as
+
+<videos: not really important>
+not sure: https://www.youtube.com/shorts/3O5DXpVESOI
+
+<videos: not really important: but interesting: bit useful>
+Learn CSS ::before and ::after in 4 Minutes:
+https://www.youtube.com/watch?v=dIUOWdwwZBw
+
+<today:  <1-17>>
+google searched:
+accessing objects within objects javascript,
+how to read doc's offline: {i found a website: devdocs.io}
+
+<useful website>
+already installed off-line doc's on this website:
+devdocs.io
+
