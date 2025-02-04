@@ -135,3 +135,141 @@ Create A Python API in 12 Minutes
 https://www.youtube.com/watch?v=zsYIw6RXjfM
 Master Layout Design In 8 Minutes! (IMPORTANT) 
 https://www.youtube.com/watch?v=DKwSrMYt15g
+
+<PossibleWebsitesOfInterest: Create Vue Mobile Applications>
+https://www.reddit.com/r/vuejs/comments/191odgp/how_to_make_native_mobile_apps_with_vuejs/
+https://capacitorjs.com/solution/vue
+
+<excellentResourceForLearningExportsAndALittleOfModulesAndImportsInJavascript>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
+
+<closed, tab, i don't know what this is>
+github page:
+from vueschool:
+vue component fundamentals with the composition api:
+https://github.com/vueschool/vue-component-fundamentals-with-the-composition-api/commit/2edf6f7d73273201a909ef16b0c40257335a4db9#diff-7a7a37b12ee1265d7e27577ec286120d2cbc0940908635e264a2be44ccb9a8a0
+
+<Screenshot taken>
+I took a screenshot of where I left off in
+a video that I was watching {{video name:
+installing and setting up vue router }}
+
+<took a screencast>
+website: https://word.tips/spelling/successfully-vs-succesfully/
+I liked the way the website looked. So, I took
+a screencast of it. 
+
+<link to understand what -U in Python for pip install -U  <other code here>  >
+https://stackoverflow.com/questions/12435209/what-does-the-u-option-stand-for-in-pip-install-u
+
+<downloaded this video: closed the tab in Firefox>
+1:
+Vue.js Tutorial: Beginner to Front-End Developer
+https://www.youtube.com/watch?v=1GNsWa_EZdw
+
+2:
+Learn CSS Positioning Quickly With A Real World Example 
+https://www.youtube.com/watch?v=MxEtxo_AaZ4
+
+3:
+Learn CSS Flexbox in 20 Minutes (Course) 
+https://www.youtube.com/watch?v=wsTv9y931o8
+
+4.
+Learn to Build with Ionic Vue Capacitor: Live Coding Section from RenderATL Talk
+https://www.youtube.com/watch?v=aq7m5FPFX-A
+
+5.
+
+<deleted tab>
+https://www.investguam.com/wp-content/uploads/2025/destinu/board/First%20Notice%20of%20DGVC%20BOD%20Meeting%2001.09.2025.pdf
+
+<svg.py 1.5.0>
+https://pypi.org/project/svg.py/
+
+<perlin-noise 1.13>
+https://pypi.org/project/perlin-noise/
+
+<Youtube: Ionic VueJS - Part 1: Live Coding CRUD Example App using Supabase.io >
+https://www.youtube.com/watch?v=vkEJWFQwAOM&list=PL2PY2-9rsgl1ttv0cehEDJwehVwjD02EH
+
+<tanstack>
+https://tanstack.com/
+
+<Capacitorjs|Vue>
+https://capacitorjs.com/solution/vue
+
+<Reddit: How to make native mobile apps with Vuejs?>
+https://www.reddit.com/r/vuejs/comments/191odgp/how_to_make_native_mobile_apps_with_vuejs/
+
+<Guide to the Philippines>
+https://guidetothephilippines.ph/
+
+<git push origin>
+https://graphite.dev/guides/how-to-use-git-push-origin
+
+<Arrow Function Expressions>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+<Can I host my own website with my own computer? How would I go about doing that?>
+https://www.quora.com/Can-I-host-my-own-website-with-my-own-computer-How-would-I-go-about-doing-that
+
+<Introduction to Sampling and Data>
+https://courses.lumenlearning.com/introstats1/chapter/introduction-sampling-and-data/
+
+<numpy>
+https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html#numpy.ndarray
+
+<numpy>
+https://numpy.org/doc/stable/user/whatisnumpy.html
+
+<vue-cheatsheet>
+https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
+
+<psa-serbilis>
+www.psaserbilis.com.ph
+
+<Youtube: Learn CSS Flexbox in 20 Minutes (Course)>
+https://www.youtube.com/watch?v=wsTv9y931o8
+
+<Python Lambda>
+https://www.w3schools.com/python/python_lambda.asp
+
+<Pypi: Send2Trash>
+https://pypi.org/project/Send2Trash/
+
+<Non-alphanumeric list order from os.listdir()>
+https://stackoverflow.com/questions/4813061/non-alphanumeric-list-order-from-os-listdir
+
+<Python 3 rstrip()>
+Non-alphanumeric list order from os.listdir()
+
+<How do I install a .deb file via the command line?>
+https://askubuntu.com/questions/40779/how-do-i-install-a-deb-file-via-the-command-line
+
+<windowClosed>
+check:
+./json_file_for_Notes_txt/current\ window\ only\ \ -\ 2025-01-29\ 13-15-39.json
+
+<what is Nuxt>
+https://vueschool.io/lessons/what-is-nuxt
+
+<anotherWindowClosed>
+./json_file_for_Notes_txt/current\ window\ closed\ 2\ \ -\ 2025-01-29\ 13-21-31.json
+
+<link: save>
+Python Script execute commands in Terminal [duplicate]
+https://stackoverflow.com/questions/3730964/python-script-execute-commands-in-terminal
+
+How to target a specific element within a div id?
+https://stackoverflow.com/questions/21339624/how-to-target-a-specific-element-within-a-div-id
+
+What is your go-to stack when building websites for clients with a CMS?
+https://www.reddit.com/r/webdev/comments/1ibwmev/what_is_your_goto_stack_when_building_websites/
+
+
+
+
+
+
+
