@@ -267,6 +267,37 @@ https://stackoverflow.com/questions/21339624/how-to-target-a-specific-element-wi
 What is your go-to stack when building websites for clients with a CMS?
 https://www.reddit.com/r/webdev/comments/1ibwmev/what_is_your_goto_stack_when_building_websites/
 
+Note -How to move multiple files at once?
+How to move multiple files at once to a specific destination directory?
+https://askubuntu.com/questions/214560/how-to-move-multiple-files-at-once-to-a-specific-destination-directory
+
+- closed music video from YT
+3 A.M Coding Session - Chillstep Beats to Keep You Going 
+https://www.youtube.com/watch?v=Yd7vDterctQ
+
+Leaflet Plugin Database
+https://leafletjs.com/plugins.html#routing
+
+Leaflet Routing Machine: Tutorials
+https://www.liedman.net/leaflet-routing-machine/tutorials/
+
+Leaflet Routing Machine (Youtube-Video)
+https://www.youtube.com/watch?v=VVj1LeHDd8U
+
+MDN web: What is Javascript?
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript
+
+<closed tab: reddit: Should I hardcode stuff into website or fetch data from api?>
+https://www.reddit.com/r/webdev/comments/1if2v3i/should_i_harcode_stuff_into_website_or_fetch_data/
+
+<devdocs.io, Python 3.13, topics>
+dict.pop()
+Itertool functions
+partial Objects (functools)
+
+<google proxy link>
+https://docs.google.com/document/d/12b6EpttJTY3wtfaQJz9Z36qVBSn5SECUW8Ulq1WzidU/edit?tab=t.0
+
 
 
 

@@ -1,0 +1,5 @@
+I am starting on a new vue project in this directory.
+
+< 2-7>   <13:24>
+includes an import map on vuePrac02.html
+
