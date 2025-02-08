@@ -1,8 +1,5 @@
-import {createApp, ref} from 'vue'
+import {createApp} from 'vue'
+import MessageApplication from './messageApplication.js'
 
-createApp({
-    setup() {
-        const message = ref('place')
-        return { message }
-    }
-}).mount('#app')
+
+createApp(MessageApplication).mount('#app')
